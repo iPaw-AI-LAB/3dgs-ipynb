@@ -2,7 +2,8 @@
 
 ## 配置
 # HTTPS
-git clone https://github.com/iPaw-AI-LAB/3dgs-ipynb --recursive
+git clone https://github.com/iPaw-AI-LAB/3dgs-ipynb.git --recursive
+
 
 ## 运行
 按照官方说明配好环境后
