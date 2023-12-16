@@ -2,7 +2,9 @@
 
 ## 配置
 # HTTPS
-git clone https://github.com/iPaw-AI-LAB/3dgs-ipynb.git --recursive
+- git clone https://github.com/iPaw-AI-LAB/3dgs-ipynb.git --recursive
+- 或者从官方仓库配环境，下载代码，https://github.com/graphdeco-inria/gaussian-splatting
+- 只需要使用我们的ipynb文件"train_3dgs.ipynb"即可
 
 
 ## 运行
